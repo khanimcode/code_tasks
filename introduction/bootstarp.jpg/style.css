@@ -1,0 +1,34 @@
+*{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#header{
+    background-color:#353A40;
+}
+#header a{
+    color:#E8ECEE;
+}
+#header .graylink{
+    color:#7D7F83;
+}
+#helloWorld{
+  background-color:#E8ECEE;
+  padding: 100px ;
+
+  
+}
+
+#helloWorld h1{
+    font-size: 50px;
+    font-weight: 100;
+}
+#heading .card
+{
+    padding: 30px 0;
+  border: none; 
+  margin-left: 100px; 
+}
+
+#heading .card a{
+    background-color:#6B757C;
+    border: none;
+}
