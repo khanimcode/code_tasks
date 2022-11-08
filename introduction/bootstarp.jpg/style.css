@@ -32,3 +32,6 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
     background-color:#6B757C;
     border: none;
 }
+#heading .bottom_heading{
+    color:#7D7F83;
+}
